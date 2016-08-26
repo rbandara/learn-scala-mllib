@@ -1,0 +1,6 @@
+*.iml
+.idea
+.class
+logs
+target
+data/model
